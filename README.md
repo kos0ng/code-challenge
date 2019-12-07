@@ -4,10 +4,10 @@
 <h3>Hackerrank:</h3>
 <ul>
 	<li>
-		<h4>30 Days of Code ( Gold Badge - 5 starts )</h4>
+		<h4>30 Days of Code ( Gold Badge - 5 stars )</h4>
 	</li>
 	<li>
-		<h4>Problem Solving ( Silver Badge - 4 starts )</h4>
+		<h4>Problem Solving ( Silver Badge - 4 stars )</h4>
 	</li>
 </ul>
 <h3>OCBC NISP Code Challenge:</h3>
