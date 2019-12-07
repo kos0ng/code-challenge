@@ -13,7 +13,7 @@
 <h3>OCBC NISP Code Challenge:</h3>
 <ul>
 	<li>
-		<h4>Success : - 7/12 TestCase ( All )</h4>
+		<h4>Success : 7/12 TestCase ( All )</h4>
 	</li>
 </ul>
 
