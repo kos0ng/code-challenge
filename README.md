@@ -1,5 +1,5 @@
 # code-challenge
-<h2 align="center">My code challenge solution repository</h2>
+<h2 align="center">Code Challenge Solution Repository</h2>
 
 <h3>Hackerrank:</h3>
 <ul>
