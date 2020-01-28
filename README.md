@@ -1,4 +1,3 @@
-# code-challenge
 <h2 align="center">Code Challenge Solution Repository</h2>
 
 <h3>Hackerrank:</h3>
