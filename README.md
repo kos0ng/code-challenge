@@ -1,5 +1,9 @@
 <h2 align="center">Code Challenge Solution Repository</h2>
 
+<h3>Code Chef:</h3>
+<li>
+	<h4>Practice</h4>
+</li>
 <h3>Hackerrank:</h3>
 <ul>
 	<li>
