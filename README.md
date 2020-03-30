@@ -6,6 +6,12 @@
 	<h4>Practice</h4>
 </li>
 </ul>
+<h3>Code Abbey:</h3>
+<ul>
+<li>
+	<h4>Believer ( Solved : 37 )</h4>
+</li>
+</ul>
 <h3>Hackerrank:</h3>
 <ul>
 	<li>
