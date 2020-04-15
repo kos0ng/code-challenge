@@ -9,7 +9,7 @@
 <h3>Code Abbey:</h3>
 <ul>
 <li>
-	<h4>Follower ( Solved : 53 )</h4>
+	<h4>Follower ( Solved : 60 )</h4>
 </li>
 </ul>
 <h3>Hackerrank:</h3>
