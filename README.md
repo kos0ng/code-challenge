@@ -1,18 +1,18 @@
 <h2 align="center">Code Challenge Solution Repository</h2>
 
-<h3>Code Chef: [profile](https://www.codechef.com/users/achmadzaenuri)</h3>
+<h3>Code Chef: <a href="https://www.codechef.com/users/achmadzaenuri">profile</a></h3>
 <ul>
 <li>
 	<h4>Practice</h4>
 </li>
 </ul>
-<h3>Code Abbey: [profile](https://www.codeabbey.com/index/user_profile/achmadzaenuridahlan)</h3>
+<h3>Code Abbey: <a href="https://www.codeabbey.com/index/user_profile/achmadzaenuridahlan">profile</a></h3>
 <ul>
 <li>
 	<h4>Priest ( Solved : 73 )</h4>
 </li>
 </ul>
-<h3>Hackerrank: [profile](https://www.hackerrank.com/achmad_zaenuridp)</h3>
+<h3>Hackerrank: <a href="https://www.hackerrank.com/achmad_zaenuridp">profile</a></h3>
 <ul>
 	<li>
 		<h4>30 Days of Code ( Gold Badge - 5 stars )</h4>
@@ -21,10 +21,12 @@
 		<h4>Problem Solving ( Gold Badge - 5 stars )</h4>
 	</li>
 </ul>
-<h3>Sololearn: [profile](https://www.sololearn.com/Profile/4149203)</h3>
+<h3>Sololearn: <a href="https://www.sololearn.com/Profile/4149203">profile</a></h3>
 <ul>
 	<li>
 		<h4>Python3 Tutorial</h4>
+	</li>
+	<li>
 		<h4>Java Tutorial</h4>
 	</li>
 </ul>
