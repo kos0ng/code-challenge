@@ -9,7 +9,7 @@
 <h3>Code Abbey: <a href="https://www.codeabbey.com/index/user_profile/achmadzaenuridahlan">profile</a></h3>
 <ul>
 <li>
-	<h4>Priest ( Solved : 73 )</h4>
+	<h4>Priest ( Solved : 75 )</h4>
 </li>
 </ul>
 <h3>Hackerrank: <a href="https://www.hackerrank.com/achmad_zaenuridp">profile</a></h3>
@@ -18,7 +18,7 @@
 		<h4>30 Days of Code ( Gold Badge - 5 stars )</h4>
 	</li>
 	<li>
-		<h4>Problem Solving ( Gold Badge - 5 stars )</h4>
+		<h4>Problem Solving ( Gold Badge - 6 stars )</h4>
 	</li>
 </ul>
 <h3>Sololearn: <a href="https://www.sololearn.com/Profile/4149203">profile</a></h3>
